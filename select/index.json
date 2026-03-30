@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "in this world",
+  "base_artist": "AZKi",
+  "createdAt": "2026-03-30T17:06:58.472521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Living In This World",
+      "artist": "Guru feat. Sweet Sable",
+      "has_synced": false,
+      "path": "select/01_Living_In_This_World_Guru_feat._Sweet_Sable.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Living In This World",
+      "artist": "Guru",
+      "has_synced": false,
+      "path": "select/02_Living_In_This_World_Guru.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In This World",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/03_In_This_World_Moby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In This World",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/04_In_This_World_Moby.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Where in This World",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/05_Where_in_This_World_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Woke up in This World",
+      "artist": "The Atomica Project",
+      "has_synced": false,
+      "path": "select/06_I_Woke_up_in_This_World_The_Atomica_Project.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In This World",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/07_In_This_World_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In This World Beyond",
+      "artist": "Loudness",
+      "has_synced": false,
+      "path": "select/08_In_This_World_Beyond_Loudness.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In This World (Murder)",
+      "artist": "Good Charlotte",
+      "has_synced": true,
+      "path": "select/09_In_This_World_(Murder)_Good_Charlotte.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Place In This World",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/10_A_Place_In_This_World_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Place In This World",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_A_Place_In_This_World_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Place In This World",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_A_Place_In_This_World_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Most Beautifullest Thing In This World",
+      "artist": "Keith Murray",
+      "has_synced": true,
+      "path": "select/13_The_Most_Beautifullest_Thing_In_This_World_Keith_Murray.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Most Beautifullest Thing In This World (Green-Eyed Remix)",
+      "artist": "Keith Murray",
+      "has_synced": true,
+      "path": "select/14_The_Most_Beautifullest_Thing_In_This_World_(Green-Eyed_Remix)_Keith_Murray.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stranger In This World",
+      "artist": "Stefanie Heinzmann",
+      "has_synced": true,
+      "path": "select/15_Stranger_In_This_World_Stefanie_Heinzmann.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Not In This World",
+      "artist": "Kids In Glass Houses",
+      "has_synced": true,
+      "path": "select/16_Not_In_This_World_Kids_In_Glass_Houses.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All I Have In This World",
+      "artist": "Rick Ross",
+      "has_synced": false,
+      "path": "select/17_All_I_Have_In_This_World_Rick_Ross.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "in this world",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_in_this_world_AZKi.txt"
+    }
+  ]
+}
